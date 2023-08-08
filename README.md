@@ -1,4 +1,4 @@
-# Craftsmen
+# Craftsmen Assessment
 
 It's an implementation of a Reverse Polish Notation (RPN) calculator in Python which contains following things:
 
